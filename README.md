@@ -18,3 +18,5 @@ My Google Doodle is going to be centered around my joy of Subarus and a sort of 
 ## Resources
 [Car icon from iconmonstr](https://iconmonstr.com/car-2-svg/)
 
+[Link to Racing Sans One](https://fonts.google.com/specimen/Racing+Sans+One?selection.family=Racing+Sans+One)
+
