@@ -7,10 +7,6 @@
 
 @import url('https://fonts.googleapis.com/css?family=Racing+Sans+One&display=swap');
 
-* {
-    outline: 1px dotted black;
-}
-
 #stage {
   background: #ccc;
   height: 300px;
