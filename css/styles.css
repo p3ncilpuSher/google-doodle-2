@@ -10,7 +10,15 @@
 #stage {
   background: #ccc;
   height: 300px;
+  position: relative;
   width: 600px;
+}
+
+#wrx {
+  position: absolute;
+  left: 600px;
+  top: 100px;
+  width: 200px;
 }
 
 .cls-1,.cls-19 {
