@@ -14,11 +14,22 @@
   width: 600px;
 }
 
-#wrx {
+.wrx {
   position: absolute;
-  left: 600px;
-  top: 100px;
+  left: 395px;
+  top: 125px;
   width: 200px;
+  z-index: 1;
+}
+
+#google_cloud {
+  position: absolute;
+  width: 480px;
+  top: 50px;
+}
+
+.cls-1 {
+  fill:#746a53
 }
 
 .cls-1,.cls-19 {
