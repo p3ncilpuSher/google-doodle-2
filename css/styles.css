@@ -10,6 +10,7 @@
 #stage {
   background: #ccc;
   height: 300px;
+  overflow: hidden;
   position: relative;
   width: 600px;
 }
