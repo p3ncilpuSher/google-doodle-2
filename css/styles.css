@@ -22,7 +22,7 @@
   z-index: 1;
 }
 
-#google_cloud {
+.google_cloud {
   position: absolute;
   width: 480px;
   top: 50px;
